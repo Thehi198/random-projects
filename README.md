@@ -1,1 +1,2 @@
-# a space for my random projects
+# Random Projects
+a space for random ideas and stuff
