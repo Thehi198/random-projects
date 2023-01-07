@@ -1,2 +1,9 @@
+
 # Random Projects
-a space for random ideas and stuff
+
+A python notebook with Random projects 
+
+## Current Projects
+1. Djikstra Algorithm implementation for server networking
+2. Image Classification
+3. Air Resistance by Time for a given object based on Cd and other factors
